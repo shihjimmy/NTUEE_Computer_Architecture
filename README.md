@@ -1,7 +1,8 @@
-# NTUEE_Computer_Architecture
-NTUEE Computer architecture ( prof Tsung-Te Liu)  
-Semester : 110-2  
-HW1: RISC-V assembly language  
-HW2: ALU with multiplication and division  
-Final project: single cycle RISC-V CPU  
-final score: A+
+## HW1: RISC-V assembly language 
+* practice assembly language 
+## HW2: ALU with multiplication and division  
+* practice verilog
+## Final project: single cycle RISC-V CPU  
+* support various commands
+* finish all bonus
+* please check out our report
